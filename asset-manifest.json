@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Contact-Manager/static/css/main.abd64e84.css",
+    "main.js": "/Contact-Manager/static/js/main.b8b1df96.js",
+    "static/media/user.png": "/Contact-Manager/static/media/user.407839953015ef7dd549.png",
+    "static/media/user.jpg": "/Contact-Manager/static/media/user.39e71ede557c8badeac5.jpg",
+    "index.html": "/Contact-Manager/index.html",
+    "main.abd64e84.css.map": "/Contact-Manager/static/css/main.abd64e84.css.map",
+    "main.b8b1df96.js.map": "/Contact-Manager/static/js/main.b8b1df96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b8b1df96.js"
+  ]
+}
