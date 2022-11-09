@@ -1,4 +1,5 @@
 {
+  "homepage": "http://anshika9946.github.io/Contact-Manager",
   "name": "contact-app",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +21,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy":"nmp run build",
+    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -43,6 +46,7 @@
     ]
   },
   "devDependencies": {
-    "eslint-plugin-react": "^7.31.10"
+    "eslint-plugin-react": "^7.31.10",
+    "gh-pages": "^4.0.0"
   }
 }
